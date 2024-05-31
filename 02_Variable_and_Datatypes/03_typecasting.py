@@ -1,4 +1,4 @@
 a = "6767"
-a = int(a)
+g = int(a)
 print(type(a))
-print(a + 10)
+print(g + 10)
