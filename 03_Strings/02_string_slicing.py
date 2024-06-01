@@ -13,3 +13,4 @@ name = "Hadi"
 # print(name[:3]) #is same as name [0:3]
 print(name[1:]) # is same as name [1:3]
 # hello
+# hadi 
